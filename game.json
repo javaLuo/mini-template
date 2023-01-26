@@ -1,0 +1,10 @@
+{
+    "deviceOrientation": "portrait",
+    "showStatusBar": true,
+    "subpackages": [
+        {
+            "name": "packageSuccess",
+            "root": "packageSuccess/"
+        }
+    ]
+}
